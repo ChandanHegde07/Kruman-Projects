@@ -1,3 +1,3 @@
 ## 📊 Student Performance Dataset
 
-This dataset includes subject-wise percentage scores (e.g., Maths, Science, Social Studies) for individual students. It's ideal for data cleaning, feature engineering, and performing Exploratory Data Analysis (EDA) to derive insights about academic performance.
+This project performs Exploratory Data Analysis (EDA) on student performance data, aiming to uncover insights such as subject-wise strengths, failure patterns, and the impact of support tools like tuition and internet usage on academic outcomes.
