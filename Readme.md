@@ -6,5 +6,5 @@ This project performs Exploratory Data Analysis (EDA) on student performance dat
 
 ## Phase 2
 
-Predicted Maths marks using Linear Regression and Random Forest.  
+Predicted Maths marks using Linear Regression, Random Forest and Logistic Regression.  
 Checked which model gave better results.
