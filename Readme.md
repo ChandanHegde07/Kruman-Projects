@@ -8,3 +8,7 @@ This project performs Exploratory Data Analysis (EDA) on student performance dat
 
 Predicted Maths marks using Linear Regression, Random Forest and Logistic Regression.  
 Checked which model gave better results.
+
+## Phase 3
+I gained hands-on experience with LangChain in Phase 3, exploring its role in building LLM-powered applications.
+This phase enhanced my understanding of prompt chaining, agents, and tool integration.
