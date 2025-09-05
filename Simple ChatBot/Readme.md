@@ -12,7 +12,7 @@ It’s like having an **AI assistant that can read your PDF and explain it in pl
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. Upload a PDF (currently supports text-based PDFs, not scanned images).
 2. Text is extracted using **pypdf**.
