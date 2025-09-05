@@ -59,4 +59,4 @@ if input_text and pdf_text:
 elif st.session_state.response:
     st.write(st.session_state.response)
 elif input_text and not pdf_text:
-    st.warning("⚠️ Please upload a PDF first.")
+    st.warning("Please upload a PDF first.")
