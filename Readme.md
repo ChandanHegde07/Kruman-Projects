@@ -1,4 +1,4 @@
-## 📊 Student Performance Dataset
+## Student Performance Dataset
 
 ## Phase 1
 
